@@ -1,0 +1,28 @@
+.bikerz-zone-button {
+    background-color: rgba(252, 6, 6, 0.322);
+}
+
+.bg-footer {
+    background-color: rgb(19, 2, 46);
+    
+}
+
+.btn i {
+    font-size: 25px;
+}
+
+footer .btn {
+    width: 160px;
+}
+
+
+@media screen and (max-width:576px) {
+    .bg-footer {
+        justify-content: center;
+        height: 370px;
+        position: absolute;
+    }
+    .bg-footer .bth {
+        text-align: center;
+    }
+}
